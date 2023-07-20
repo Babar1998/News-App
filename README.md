@@ -1,16 +1,21 @@
-# news_app
+<p align="center"><img src="logo.png" alt="logo" width="150" height="150"></p> <h1 align="center"> 5Min News</h1>
 
-A new Flutter project.
+ <h2 align = "center"> ◀️ Introduction ▶️ </h2>
 
-## Getting Started
+<p align="center"> 5 min news platform to read news fast and save some time</p>
+<br/><br/>
 
-This project is a starting point for a Flutter application.
+#### Tech-Stack used :
 
-A few resources to get you started if this is your first Flutter project:
+<!--   <p align ="center"><code> -->
+  ![Flutter](https://img.shields.io/badge/-flutter-blue)
+  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Screenshots
+ <img src="Screenshot_19.png" height="500em" /> <img src="Screenshot_1.png" height="500em" /> <img src="Screenshot_2.png" height="500em" /> <img src="Screenshot_3.png" height="500em" /> <img src="Screenshot_4.png" height="500em" />
+
+
+video explanation - https://youtu.be/NGWuXgWS8ws
+
+
